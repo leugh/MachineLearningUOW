@@ -1,2 +1,2 @@
 # MachineLearningUOW
-Machine Learning University of Washington @ Coursera 
+Machine Learning Foundations: A Case Study Approach
